@@ -1,0 +1,27 @@
+*{
+    margin: 0px;
+    padding: 0px;
+}
+
+body{
+    font-size: 50px;
+    margin: 15px;
+}
+
+.numeros{
+    float: left;
+    margin: 5px;
+    width: 300px;
+    height: 300px;
+}
+
+.rojo{
+    background-color: red; 
+    color: yellow;
+    
+}
+
+.negro{
+    background-color: black;
+    color: white;
+}
